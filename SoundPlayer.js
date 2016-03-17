@@ -1,7 +1,7 @@
 // SoundPlayer.js
 // eigen library die je wilt hergebruiken
 
-// playSound
+// playSound aangepast
 
 var soundPlayer = Object.create(eventDispatcher);
 
